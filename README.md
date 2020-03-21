@@ -98,10 +98,26 @@
 
 ![19.4](img/19.4.png)
 
-##### 7、项目导出。
+##### 7、项目导出。- Assets--Export Package...--在弹出窗口中，全选所有items，按Export.
 
+![20.1](img/20.1.png)
+
+![21.2](img/21.2.png)
+
+##### 7.项目导入
+- Assets-Import Package-Custom Package。全选所有items，然后按import。
+
+![22](img/24.png)
+
+![22](img/22.png)
+
+#### 注意：所选择的文件的格式是package file.
+
+##### 8、生成文件（生成apk为例子）
+- file--build settings
+- 按Add Open Scenes选择场景“sj”后，再按左下角的Swith Platform适配平台（变为灰色不能点击），再按Build，选择**路径（必须是英文，不能是中文）**后，出现以下错误提示
 ![19.1](img/19.1.png)
 ![19.2](img/19.2.png)
 
-##### 7.项目导出
+
 
