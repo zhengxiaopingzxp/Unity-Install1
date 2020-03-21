@@ -1,4 +1,7 @@
+
 # 安装Unity&SDK&JDK教程
+##### 由于视频大小超过25m无法直接上传至仓库，故附上百度网盘链接
+- 以下步骤成功完成后生成apk操作的视频链接：链接：https://pan.baidu.com/s/1CT_onf5SVcEeFI5-5XRy9A    提取码：bzs8
 ##### 1. 安装Unity：UnitySetup64-5.6.2f1
 
 ![1](img/1.png)
