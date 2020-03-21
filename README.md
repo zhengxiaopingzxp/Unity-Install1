@@ -115,9 +115,20 @@
 
 ##### 8、生成文件（生成apk为例子）
 - file--build settings
-- 按Add Open Scenes选择场景“sj”后，再按左下角的Swith Platform适配平台（变为灰色不能点击），再按Build，选择**路径（必须是英文，不能是中文）**后，出现以下错误提示
-![19.1](img/19.1.png)
-![19.2](img/19.2.png)
+- 按Add Open Scenes选择场景“sj”后，再按左下角的Swith Platform适配平台，再按Build，选择**路径（必须是英文，不能是中文）**
+- 选择Android--Swich Platfrom--根据教程按Player Settings调设置
+- 相对应的修改Company Name、Product Name和Package Name.(注意命名需要规范)
+![25](img/25.png)
+
+![26](img/26.png)
+
+![27](img/27.png)
+
+![28](img/28.png)
+
+![29](img/29.png)
+
+- 最后点击“build”，生成APK文件
 
 
 
